@@ -1,5 +1,5 @@
 # Clone-IMDB
-<h1 align="center">Clone-IMDB</h1>
+
 
 
 ### 📚 Foram praticados meus conhecimentos em:
